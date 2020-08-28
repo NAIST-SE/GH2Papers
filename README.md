@@ -50,4 +50,7 @@ Traceability between published scientific breakthroughs and their implementation
 - *link changes* - a link to the referenced academic paper was updated, e.g., from a pdf stored on GitHub to an arXiv or DOI link.
 - *no update* - the reference had not evolved.
 
+ ## Disagreement cases in the qualitative coding
+  Our disagreement cases in the qualitative coding for RQ2 (Relationship and Traceability) and RQ3 (Evolution) are available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQyaqoz-JPyUBstzqNfJSWvNV9cFfc9uOmJy8CQjHGkj-qDnNl-WKMOZikUafEz2s6-XWgUV_hhhEWT/pubhtml#). The coding guides, along with a short description are provided in the section above. 
+  
  
